@@ -1,2 +1,4 @@
-Welcome...
+
 Hello World
+I am TEIT student
+Thank you
